@@ -115,21 +115,21 @@ footer.page-footer {
 }
 
 .check-list {
+  font-weight: bold;
 }
 
 .check-list li {
   position: relative;
+  margin: 0px 0px 5px 0px;
 }
 
 .check-list li p {
-  padding: 0px 0px 0px 15px;
-  margin: 0px 0px 5px 0px;
+  padding: 0px 0px 0px 25px;
 }
 
 .check-list li span {
   position: absolute;
-  left: -15px;
-  top: +5px;
+  top: +3px;
 }
 
 .btn-floating-label{
